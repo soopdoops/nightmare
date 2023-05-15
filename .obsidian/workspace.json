@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "bab0a4fdd24a618d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9729d0b2a33dec6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d705cbe83c824b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Stack Buffer Overflows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "33ff9e89a7f17857",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa0240b52bd8203b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c8da48f43a68676",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "45f346285d78a12c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b94b93b8af564b43",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb95fa48ee64da97",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4c2f13a6d4ec798",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f103afe5550a623e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Stack Buffer Overflows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a58766f8be1fdc0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Stack Buffer Overflows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f24f3f9efa627de4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "114c25562c19fafa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Stack Buffer Overflows.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9d705cbe83c824b5",
+  "lastOpenFiles": [
+    "nmare.rep/idata/00/~00000006.db/db.2.gbf",
+    "nmare.rep/idata/00/~00000006.db/tmp5743821045117645316.ps",
+    "nmare.rep/idata/00/~00000006.db/snapshotB.grf",
+    "nmare.rep/idata/00/~00000006.db/snapshotA.grf",
+    "nmare.rep/idata/00/~00000006.db/db.1.gbf",
+    "nmare.rep/idata/00/~00000006.db/changeB.grf",
+    "nmare.rep/idata/00/~00000006.db/changeA.grf",
+    "nmare.rep/idata/00/~00000005.db/db.2.gbf",
+    "nmare.rep/idata/00/00000006.prp",
+    "nmare.rep/idata/00/00000005.prp",
+    "nmare.rep/idata/~journal.bak",
+    "imgs/vulnchat_main.png.md",
+    "2. Stack Buffer Overflows.md",
+    "writeups/Nightmare/bufferoverflows/variable/TOWE17_justdoit.md",
+    "writeups/Nightmare/bufferoverflows/variable/TAMU19_Pwn1.md",
+    "writeups/Nightmare/bufferoverflows/variable/CSAW18_quals_boi.md",
+    "writeups/Nightmare/bufferoverflows/callfunction/CSAW18_getit.md",
+    "writeups/Nightmare/bufferoverflows/callfunction/CSAW16_warmup.md",
+    "writeups/bufferoverflows/callfunction/CSAW18_getit.md",
+    "writeups/bufferoverflows/variable/TOWE17_justdoit.md",
+    "writeups/bufferoverflows/variable/TAMU19_Pwn1.md",
+    "writeups/bufferoverflows/variable/CSAW18_quals_boi.md",
+    "writeups/bufferoverflows/callfunction/CSAW16_warmup.md",
+    "writeups/bufferoverflows/Untitled.md",
+    "writeups/bufferoverflows/CSAW18_getit.md",
+    "writeups/bufferoverflows/CSAW16_warmup.md",
+    "writeups/bufferoverflows/TOWE17_justdoit.md",
+    "writeups/bufferoverflows/TAMU19_Pwn1.md",
+    "1. Introduction.md",
+    "writeups/Untitled.md",
+    "writeups/bufferoverflows/CSAW18_quals_boi.md",
+    "writeups/CSAW18_quals_boi.md",
+    "nightmare/modules/references/readme.md",
+    "nightmare/modules/next/readme.md",
+    "nightmare/modules/7.2-mitigation_relro/readme.md",
+    "nightmare/modules/7.1-mitigation_canary/readme.md",
+    "nightmare/modules/22-movfuscation/swamp19_future/graph.png"
+  ]
+}
